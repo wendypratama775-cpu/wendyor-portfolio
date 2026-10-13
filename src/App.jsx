@@ -843,7 +843,7 @@ onPointerCancel={() => {
           Have a project in mind or want to work together?
           I'd love to hear from you.
         </p>
-        <a className="button-primary" href="mailto:hello@example.com">
+        <a className="button-primary" href="https://wa.me/62895372687996?text=Halo%20WENDYOR%2C%20saya%20tertarik%20untuk%20berdiskusi%20tentang%20proyek. " target="_blank" rel="noopener noreferrer">
           Start a Conversation <span>↗</span>
         </a>
      
