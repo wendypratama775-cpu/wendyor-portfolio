@@ -834,7 +834,7 @@ onPointerCancel={() => {
             aria-label="Stickman fight animation"
           >
             <source
-              src={`${import.meta.env.BASE_URL}videos/stickman-fight.mp4`}
+              src={`${import.meta.env.BASE_URL}videos/stickman-fight-transparent.webm`}
               type="video/mp4"
             />
           </video>
